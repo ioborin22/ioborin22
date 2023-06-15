@@ -6,5 +6,6 @@ I'm a passionate full stack web developer with expertise in front-end and back-e
 
 [LinkedIn](https://www.linkedin.com/in/ioborin22/)
 
-![CodeWars Badge](https://www.codewars.com/users/ioborin22/badges/large)
+[![CodeWars Badge](https://www.codewars.com/users/ioborin22/badges/large)](https://www.codewars.com/users/ioborin22)
+
 
