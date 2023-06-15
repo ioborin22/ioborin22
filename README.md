@@ -8,4 +8,4 @@ I'm a passionate full stack web developer with expertise in front-end and back-e
 
 [![CodeWars Badge](https://www.codewars.com/users/ioborin22/badges/large)](https://www.codewars.com/users/ioborin22)
 
-![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ioborin22)(https://leetcode.com/ioborin22/)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ioborin22)](https://leetcode.com/ioborin22/)
