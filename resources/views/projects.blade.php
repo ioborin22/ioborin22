@@ -20,26 +20,7 @@
     </div>
 </header>
 
-<section id="hero" class="py-10 text-center">
-    <div class="container mx-auto px-4">
-        <div class="flex justify-center">
-            <div class="rounded-full h-56 w-56 flex items-center justify-center">
-                <img src="{{asset('/ioborin22.jpg')}}" alt="Profile Photo" class="rounded-full h-200 w-200">
-            </div>
-        </div>
 
-        <h1 class="text-4xl font-bold mt-4">Hi, I'm Ilia! 👋</h1>
-        <p class="mt-4 text-lg">Welcome to My Portfolio</p>
-    </div>
-</section>
-
-
-<section id="about" class="py-20">
-    <div class="container mx-auto px-4">
-        <h2 class="text-3xl font-bold text-center mb-8">About Me</h2>
-        <p class="text-lg">I'm a passionate full stack web developer with expertise in front-end and back-end development. I enjoy creating user-friendly web applications using HTML5, CSS3, JavaScript, React.js, Angular, Node.js, and Python. Let's connect and collaborate on exciting projects!.</p>
-    </div>
-</section>
 
 <section id="projects" class="py-20 bg-gray-200">
     <div class="container mx-auto px-4">
