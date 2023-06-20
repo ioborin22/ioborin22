@@ -48,10 +48,10 @@
 <footer class="bg-blue-500 text-white py-4">
     <div class="container mx-auto px-4">
         <div class="flex justify-center space-x-4">
-            <a href="https://www.linkedin.com" class="text-xl hover:text-blue-200">LinkedIn</a>
-            <a href="https://github.com/yourusername" class="text-xl hover:text-blue-200">GitHub</a>
-            <a href="https://twitter.com/yourusername" class="text-xl hover:text-blue-200">Twitter</a>
-            <a href="https://www.facebook.com/yourusername" class="text-xl hover:text-blue-200">Facebook</a>
+            <a href="https://www.linkedin.com/in/ioborin22/" class="text-xl hover:text-blue-200">LinkedIn</a>
+            <a href="https://github.com/ioborin22" class="text-xl hover:text-blue-200">GitHub</a>
+            <a href="https://twitter.com/ioborin22" class="text-xl hover:text-blue-200">Twitter</a>
+            <a href="https://www.facebook.com/ioborin22" class="text-xl hover:text-blue-200">Facebook</a>
         </div>
     </div>
 </footer>
