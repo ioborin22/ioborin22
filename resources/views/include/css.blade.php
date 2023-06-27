@@ -582,7 +582,7 @@
 
     .selection\:bg-red-500 *::selection {
         --tw-bg-opacity: 1;
-        background-color: rgb(239 68 68 / var(--tw-bg-opacity))
+        background-color: rgb(37 99 235 / var(--tw-bg-opacity))
     }
 
     .selection\:text-white *::selection {

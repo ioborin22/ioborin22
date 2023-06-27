@@ -120,7 +120,7 @@
         <li class="border border-gray-300 rounded p-4">
             <a href="{{ route('messages.index', $sender_id=1) }}"
                class="text-blue-500 text-xl">/messages/<b>{id}</b></a>
-            <p class="text-gray-600 mt-2">Get all messages by ID (e.g., the first message, sender_id=1)</p>
+            <p class="text-gray-600 mt-2">Get all messages by ID (e.g., all messages owned by user, id=1)</p>
         </li>
         <li class="border border-gray-300 rounded p-4">
             <a href="{{ route('messages.show', [$sender_id=1, $receiver_id=2]) }}" class="text-blue-500 text-xl">/messages/<b>{sender_id}</b>/<b>{receiver_id}</b></a>
