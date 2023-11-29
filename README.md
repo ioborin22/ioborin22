@@ -1,8 +1,10 @@
 # Hi, I'm Ilia! 👋
 
-Full Stack Web Developer | Problem Solver | Tech Enthusiast
+I'm a Full Stack Web Developer with expertise in Linux, Apache, MySQL, PHP, Laravel, JavaScript, CSS, HTML5, React and Vue. With over 10 years of experience, I've worked on a variety of projects, from small business websites to large e-commerce platforms.
 
-I'm a passionate full stack web developer with expertise in front-end and back-end development. I enjoy creating user-friendly web applications using HTML5, CSS3, JavaScript, React.js, Angular, Node.js, and Python. Let's connect and collaborate on exciting projects! 
+I'm passionate about using my skills to help businesses achieve their goals and solve their problems. I specialize in website maintenance, improvement, SEO optimization, server support, and speed optimization.
+
+Let's work together to create the perfect website for your business!
 
 ## CodeWars
 
