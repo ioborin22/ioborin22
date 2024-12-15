@@ -13,5 +13,3 @@ Let's work together to create the perfect website for your business!
 ## LeetCode
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ioborin22)](https://leetcode.com/ioborin22/)
-
-Check my own free dating website https://getwab.com/
