@@ -26,9 +26,9 @@
     <div class="container mx-auto px-4">
         <h2 class="text-3xl font-bold text-center mb-8">My Projects</h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
-            <a target="_blank" href="https://getwab.com" class="block bg-white shadow-lg rounded-lg p-6">
-                <h3 class="text-xl font-bold">GETWAB.COM free dating</h3>
-                <p class="mt-4">GETWAB.COM is a free online dating platform for unusual people. It brings together individuals who embrace their uniqueness and are seeking meaningful connections. Join us to discover like-minded individuals, forge deep connections, and explore the world of online dating in a safe and inclusive environment.</p>
+            <a target="_blank" href="https://chatvale.com" class="block bg-white shadow-lg rounded-lg p-6">
+                <h3 class="text-xl font-bold">Chat Vale</h3>
+                <p class="mt-4">Chat Vale is a free online chat platform. It brings together individuals who embrace their uniqueness and are seeking meaningful connections. Join us to discover like-minded individuals, forge deep connections, and explore the world of online dating in a safe and inclusive environment.</p>
             </a>
 
             <a href="{{route('fake-database-api.index')}}" class="block bg-white shadow-lg rounded-lg p-6">
