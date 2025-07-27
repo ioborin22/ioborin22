@@ -18,7 +18,6 @@ Founder of **GETWAB INC.**, a U.S.-based company specializing in federal procure
 
 ### 🌐 Live Tools
 - **FPDS Query** → [fpds.getwab.com/query](https://fpds.getwab.com/query) – SQL sandbox with FPDS data
-- **FPDS Reports** – Standardized procurement reports (PDF)
 
 ---
 
