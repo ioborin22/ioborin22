@@ -17,7 +17,7 @@ Founder of **GETWAB INC.**, a U.S.-based company specializing in federal procure
 - **Linux/Debian**, GitHub Actions
 
 ### 🌐 Live Tools
-- **FPDS Query** → [fpds.getwab.com/query](https://fpds.getwab.com/query) – SQL sandbox with FPDS data
+- **FPDS Query** → [getwab.com/fpds/query](https://www.getwab.com/fpds/query) – SQL sandbox with FPDS data
 
 ---
 
@@ -31,7 +31,7 @@ Founder of **GETWAB INC.**, a U.S.-based company specializing in federal procure
 
 
 ### 🌐 Website & Contact
-- 🌍 [getwab.com](https://www.getwab.com)
+- 🌍 [www.getwab.com](https://www.getwab.com)
 - 📧 ilia.oborin@getwab.com
 - 💼 [LinkedIn](https://linkedin.com/in/ioborin22)
 
