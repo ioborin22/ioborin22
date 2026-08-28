@@ -28,7 +28,6 @@ The platform is designed to help businesses research the federal market, evaluat
 - Python
 - PHP and Laravel
 - JavaScript
-- ClickHouse
 - MySQL
 - Redis
 - FastAPI
