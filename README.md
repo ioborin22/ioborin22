@@ -45,4 +45,4 @@ My priorities are reliability, explainable data, operational independence, and p
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/ioborin22)  
-[GETWAB INC.](https://www.getwab.com)
+
