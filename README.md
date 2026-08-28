@@ -1,40 +1,49 @@
-# 👋 Hi, I'm Ilia Oborin
+# Ilia Oborin
 
-Founder of **GETWAB INC.**, a U.S.-based company specializing in federal procurement analytics, standardized reporting, and data-driven decision support tools.
+Founder and CEO of [GETWAB INC.](https://www.getwab.com), a U.S. technology company building data infrastructure, procurement intelligence, and decision-support systems for the federal market.
 
-### 💼 What I Do
-- 📊 Build tools for **federal procurement analysis** (FPDS.gov)
-- 📄 Develop **standardized PDF reports** with AI commentary
-- 💡 Create **custom SQL interfaces** and data visualizations
-- 🔒 Work on **cybersecurity**, **data automation**, and **government IT solutions**
+## Current Focus
 
-### 🧠 My Stack
-- **Python** (FastAPI, ReportLab, Pandas)
-- **SQL** (ClickHouse, MySQL)
-- **JavaScript** (custom UIs, integrations)
-- **Superset** for dashboards and BI
-- **ReportLab** for dynamic PDF generation
-- **Linux/Debian**, GitHub Actions
+I design and operate systems that transform large, fragmented government datasets into structured, searchable, and decision-ready information.
 
-### 🌐 Live Tools
-- **FPDS Query** → [getwab.com/fpds/query](https://www.getwab.com/fpds/query) – SQL sandbox with FPDS data
+My current work includes:
 
----
+- Federal opportunity discovery and procurement intelligence
+- Contract, vendor, agency, and market analysis
+- Automated data collection and normalization
+- High-performance analytical platforms
+- AI-assisted research and reporting workflows
+- Production infrastructure, monitoring, and deployment automation
 
-### 🛠️ Services I Provide
+## GETWAB
 
-- 📊 **Procurement Analytics** – custom reports, trend analysis, department/agency/vendor breakdowns
-- 🧾 **Standardized Report Generation** – PDF reports with AI commentary, ready for decision-making or submission
-- 🧠 **AI-Assisted Tools** – integrated LLMs to support analysis and auto-generate SQL from questions
-- 🧰 **Custom Data Platforms** – ClickHouse + Superset dashboards, hosted analytics, or deployed on-prem
-- 🔐 **Security & Automation Consulting** – process automation, monitoring, and secure data workflows
+GETWAB is a federal procurement analytics platform that brings together opportunities, contract awards, subcontracting data, entities, agencies, vendors, classifications, and related market intelligence.
 
+The platform is designed to help businesses research the federal market, evaluate opportunities, understand buyers and competitors, and make better pursuit decisions.
 
-### 🌐 Website & Contact
-- 🌍 [www.getwab.com](https://www.getwab.com)
-- 📧 ilia.oborin@getwab.com
-- 💼 [LinkedIn](https://linkedin.com/in/ioborin22)
+[Visit GETWAB](https://www.getwab.com)
 
----
+## Technology
 
-> 🚀 I'm always open to collaboration around public data, automation, or federal IT innovation.
+- Python
+- PHP and Laravel
+- JavaScript
+- ClickHouse
+- MySQL
+- Redis
+- FastAPI
+- Apache Superset
+- Linux and Debian
+- GitHub Actions
+- AI and language-model integrations
+
+## Engineering Approach
+
+I build systems end to end: data acquisition, storage architecture, backend services, analytical interfaces, automation, infrastructure, and production operations.
+
+My priorities are reliability, explainable data, operational independence, and practical business value.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ioborin22)  
+[GETWAB INC.](https://www.getwab.com)
